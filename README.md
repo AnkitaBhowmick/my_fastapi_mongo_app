@@ -26,7 +26,6 @@ This is a REST API built with **FastAPI** and **MongoDB** that supports CRUD ope
   - [Clock-In API](#clock-in-api)
 - [Environment Variables](#environment-variables)
 - [Deploying on Koyeb](#deploying-on-koyeb)
-- [Deploying on Heroku](#deploying-on-heroku)
 
 ## Tech Stack
 
