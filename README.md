@@ -40,7 +40,7 @@ This is a REST API built with **FastAPI** and **MongoDB** that supports CRUD ope
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnkitaBhowmick/fastapi_mongo_app.git
+   git clone https://github.com/AnkitaBhowmick/my_fastapi_mongo_app.git
 
 
 Insall the dependcies
