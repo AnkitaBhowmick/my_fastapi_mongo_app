@@ -34,7 +34,6 @@ This is a REST API built with **FastAPI** and **MongoDB** that supports CRUD ope
 - **MongoDB**: The database for storing items and clock-in records.
 - **Pydantic**: Data validation and settings management.
 - **Uvicorn**: ASGI server to serve the application.
-- **HTML/CSS/JS**: For the front-end of the application.
 
 ## Installation
 
